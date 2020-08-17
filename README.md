@@ -6,13 +6,13 @@ In this project, I am going to start learning how to do web scraping. I am plann
 
 
 # Objectives
-- Import necessary modules
-- Imdb_webscraping_part
-- Cleaning All datasets
-- Visualization
-- Feature Engineering
-- Train-test split
-- Creating models
-- Result metrics
-- Feature Importance
-- ROC/AUC curve
+- Import necessary modules (Web-Scraping.ipynb)
+- Imdb_webscraping_part(Web-Scraping.ipynb)
+- Cleaning All datasets(Cleaning.ipynb)
+- Visualization(feature Engineering.ipynb)
+- Feature Engineering(feature Engineering.ipynb)
+ - Train-test split
+ - Creating models
+ - Result metrics
+ - Feature Importance
+ - ROC/AUC curve
